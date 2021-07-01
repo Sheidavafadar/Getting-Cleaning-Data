@@ -7,7 +7,6 @@
 #    with the average of each variable for each activity and each subject.
 #==========================================================================
 
-setwd("C:/PhD/Statistics/Coursera/Getting & Cleaning Data/w4/project")
 library(data.table)
 library(reshape2)
 
