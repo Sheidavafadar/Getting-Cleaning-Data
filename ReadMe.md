@@ -1,6 +1,5 @@
 ---
 title: "Getting & Cleaning Data"
-output: word_document
 ---
 
 
